@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Sarah Tomlinson 👋  
 
-<!--
-**sarah-tomlinson-dev/sarah-tomlinson-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst & Software Developer  
+🎓 B.S. Mathematics | Finishing B.S. Computer Science  
+📚 Recently completed: Data Science with Python certification  
+🔍 Exploring career opportunities in Data Analytics, Data Science, and Software Development  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- Languages: Python, Java, SQL  
+- Data: Pandas, NumPy, Matplotlib  
+- Software Dev: Git/GitHub, Agile, TDD  
+- Interests: Data visualization, algorithms, cryptography, UX-focused design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [CS-300 Advising App](link) – Designed and implemented course advising system with Binary Search Tree for efficient prerequisite lookup.  
+- [CS-230 Gaming Room App](link) – Applied design patterns (Singleton, Iterator) in a cross-platform web game design project.  
+- [CS-305 Artemis Financial Security](link) – Implemented SHA-256 encryption, HTTPS, and vulnerability assessment for financial client software.  
+
+💡 More projects and details in my [Portfolio Repository](link).
